@@ -1,5 +1,5 @@
 # system-analyst-test-task
-Test task for System Analyst position
+Тестовое задание для позиции системного аналитика
 
 
 # Задание 1. Анализ требований
